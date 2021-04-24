@@ -1,6 +1,5 @@
 <?php
 include_once 'header.php';
-// If the user is not logged in redirect to the login page...
 if (!isset($_SESSION['logged'])) {
 	header('Location: index.php');
 	exit;
