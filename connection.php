@@ -1,5 +1,5 @@
 <?php
-$DB_HOST= 'loginphptest.c7sdisgmtykr.us-east-2.rds.amazonaws.com';
+$DB_HOST= 'loginphp.c7sdisgmtykr.us-east-2.rds.amazonaws.com';
 $DB_USERNAME = 'admin';
 $DB_PASSWORD = 'THBLLVEHROVKszwdYeVp';
 $DB_NAME = 'pruebaphp';
